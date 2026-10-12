@@ -6,10 +6,21 @@
 
 Building secure cloud infrastructure, reliable delivery pipelines, and automation for cloud-native platforms.
 
-<!-- Profile views and follower count -->
+<!-- LIVE PROFILE METRICS
+     Komarev provides the profile-view counter.
+     Shields.io fetches the current public GitHub follower count.
+     These are external image services and can occasionally be delayed or unavailable.
+-->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=grlokesh96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views for grlokesh96" />
-  <img src="https://img.shields.io/github/followers/grlokesh96?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub followers" />
+  <a href="https://github.com/grlokesh96">
+    <img src="https://komarev.com/ghpvc/?username=grlokesh96&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Live GitHub profile view counter for grlokesh96" />
+  </a>
+  <a href="https://github.com/grlokesh96?tab=followers">
+    <img src="https://img.shields.io/github/followers/grlokesh96?label=FOLLOWERS&logo=github&style=for-the-badge&color=181717" alt="Current GitHub followers for grlokesh96" />
+  </a>
+  <a href="https://github.com/grlokesh96?tab=repositories">
+    <img src="https://img.shields.io/github/stars/grlokesh96?label=TOTAL%20STARS&style=for-the-badge&color=f1c40f" alt="Stars on repositories owned by grlokesh96" />
+  </a>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grlokesh96)
@@ -89,14 +100,17 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 <div align="center">
 
-<!-- GitHub stats card: dynamically fetches data from the public GitHub profile. -->
+<!-- Public GitHub stats: dynamically generated; public services can be rate-limited. -->
 <img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics for grlokesh96" />
 
-<!-- Top languages card: summarizes language usage in public repositories. -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
 
-<!-- Contribution streak card. -->
 <img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+
+<!-- Canonical activity graph deployment documented by its maintainers. -->
+<a href="https://github.com/grlokesh96">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&theme=github-compact&hide_border=true" alt="GitHub activity graph for grlokesh96" />
+</a>
 
 </div>
 
