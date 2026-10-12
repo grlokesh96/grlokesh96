@@ -107,10 +107,6 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 <img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
 
-<!-- Canonical activity graph deployment documented by its maintainers. -->
-<a href="https://github.com/grlokesh96">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&theme=github-compact&hide_border=true" alt="GitHub activity graph for grlokesh96" />
-</a>
 
 </div>
 
