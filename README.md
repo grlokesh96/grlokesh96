@@ -1,24 +1,179 @@
-# 💫 About Me:
-🚀 About Me<br><br>👋 Hi, I'm G. R. Lokesh, a DevOps & DevSecOps Engineer with **5+ years of experience** in cloud infrastructure and automation.<br><br>- ☁️ Cloud: AWS, Azure, EKS, AKS<br>- 🏗️ IaC: Terraform, infrastructure automation<br>- ☸️ Containers: Docker, Kubernetes, Helm<br>- 🔄 CI/CD & GitOps: GitHub Actions, Jenkins, Argo CD<br>- 🛡️ DevSecOps: SonarQube, Trivy, Checkov, SBOM, Cosign<br>- 📊 Observability: Prometheus, Grafana, Datadog, ELK<br>- 🤖 AI/AIOps: AI-assisted incident analysis and DevOps automation<br>- 🎯 Current Focus: Platform Engineering, developer self-service, and secure cloud-native platforms<br><br>💡 I enjoy automating infrastructure, improving reliability, and embedding security into every stage of software delivery.<br><br>
+<div align="center">
 
+# 👋 Hi, I'm G. R. Lokesh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grlokesh96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grlokesh96@gmail.com) 
+### DevOps & DevSecOps Engineer | AWS · Azure · Kubernetes · Terraform · GitOps
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=grlokesh96&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=grlokesh96&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=grlokesh96&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <a href="https://github.com/grlokesh96">
+    <img src="https://komarev.com/ghpvc/?username=grlokesh96&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://www.linkedin.com/in/grlokesh96">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.grlokesh.online">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Automating infrastructure · Securing delivery · Improving reliability**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=grlokesh96&limit=5&theme=default&combine_all_yearly_contributions=true)
+[About](#-about-me) · [Tech Stack](#-technology-stack) · [Project Explorer](#-project-explorer) · [Analytics](#-github-analytics) · [Connect](#-lets-connect)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=grlokesh96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm **G. R. Lokesh**, a DevOps & DevSecOps Engineer with **5+ years of experience** in cloud infrastructure, automation, Kubernetes, CI/CD, and cloud security.
+
+- ☁️ **Cloud:** AWS, Azure, Amazon EKS, Azure AKS
+- 🏗️ **Infrastructure as Code:** Terraform, reusable modules, infrastructure automation
+- ☸️ **Containers:** Docker, Kubernetes, Helm
+- 🔄 **CI/CD & GitOps:** GitHub Actions, Jenkins, Argo CD
+- 🛡️ **DevSecOps:** SonarQube, Trivy, Checkov, secrets scanning, SBOM, image signing
+- 📊 **Observability:** Prometheus, Grafana, Datadog, ELK
+- 🤖 **AI/AIOps:** Exploring AI-assisted incident analysis and DevOps automation
+- 🎯 **Current focus:** Platform Engineering, developer self-service, and secure cloud-native platforms
+
+I enjoy solving infrastructure problems, automating repetitive work, and building secure and observable delivery workflows.
+
+---
+
+## 🧰 Technology Stack
+
+### Cloud, IaC & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible,linux,bash,python,powershell" alt="AWS, Azure, Terraform, Ansible, Linux, Bash, Python, PowerShell" />
+</p>
+
+### Containers, CI/CD & GitOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm,jenkins,githubactions,git,gitlab,nginx" alt="Docker, Kubernetes, Helm, Jenkins, GitHub Actions, Git, GitLab, NGINX" />
+</p>
+
+### Monitoring & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,postgres,mongodb,redis" alt="Prometheus, Grafana, Elasticsearch, PostgreSQL, MongoDB, Redis" />
+</p>
+
+### Security & Platform Tools
+
+<p>
+  <a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" /></a>
+  <a href="https://trivy.dev/"><img src="https://img.shields.io/badge/Trivy-Security%20Scanning-1904DA?style=flat-square" alt="Trivy" /></a>
+  <a href="https://www.checkov.io/"><img src="https://img.shields.io/badge/Checkov-IaC%20Security-5C4EE5?style=flat-square" alt="Checkov" /></a>
+  <a href="https://github.com/gitleaks/gitleaks"><img src="https://img.shields.io/badge/Gitleaks-Secret%20Scanning-B42318?style=flat-square" alt="Gitleaks" /></a>
+  <a href="https://github.com/anchore/syft"><img src="https://img.shields.io/badge/Syft-SBOM-2563EB?style=flat-square" alt="Syft" /></a>
+  <a href="https://github.com/sigstore/cosign"><img src="https://img.shields.io/badge/Cosign-Image%20Signing-0F766E?style=flat-square" alt="Cosign" /></a>
+  <a href="https://kyverno.io/"><img src="https://img.shields.io/badge/Kyverno-Kubernetes%20Policy-326CE5?style=flat-square" alt="Kyverno" /></a>
+  <a href="https://www.hashicorp.com/products/vault"><img src="https://img.shields.io/badge/HashiCorp%20Vault-Secrets%20Management-000000?style=flat-square&logo=vault&logoColor=white" alt="HashiCorp Vault" /></a>
+  <a href="https://opentelemetry.io/"><img src="https://img.shields.io/badge/OpenTelemetry-Observability-7B61FF?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" /></a>
+</p>
+
+---
+
+## 🗂️ Project Explorer
+
+Explore my public repositories by topic. These links open GitHub repository searches for my account and don't depend on hardcoded repository names.
+
+<p>
+  <a href="https://github.com/grlokesh96?tab=repositories&q=terraform"><img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform repositories" /></a>
+  <a href="https://github.com/grlokesh96?tab=repositories&q=kubernetes"><img src="https://img.shields.io/badge/Kubernetes-Cloud%20Native-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes repositories" /></a>
+  <a href="https://github.com/grlokesh96?tab=repositories&q=devsecops"><img src="https://img.shields.io/badge/DevSecOps-Security-CB3837?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="DevSecOps repositories" /></a>
+  <a href="https://github.com/grlokesh96?tab=repositories&q=github-actions"><img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions repositories" /></a>
+  <a href="https://github.com/grlokesh96?tab=repositories&q=gitops"><img src="https://img.shields.io/badge/GitOps-Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="GitOps repositories" /></a>
+  <a href="https://github.com/grlokesh96?tab=repositories&q=python"><img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python repositories" /></a>
+</p>
+
+- 📦 [All repositories](https://github.com/grlokesh96?tab=repositories)
+- ⭐ [Repositories I've starred](https://github.com/grlokesh96?tab=stars)
+- 🧑‍💻 [My GitHub profile](https://github.com/grlokesh96)
+
+**Portfolio tip:** Pin your six strongest real repositories. Prioritize practical examples such as Terraform modules, secure CI/CD, Kubernetes deployment, GitOps, monitoring, and AI-assisted DevOps.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/grlokesh96">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/grlokesh96">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+</a>
+
+### 🔥 Contribution Streak
+
+<img width="75%" src="https://streak-stats.demolab.com?user=grlokesh96&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+### 📈 Contribution & Commit Activity
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+
+### 🏆 GitHub Trophies
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=grlokesh96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub profile trophies" />
+
+</div>
+
+### ⭐ Stars & Contributions
+
+- ⭐ [Browse my starred repositories](https://github.com/grlokesh96?tab=stars)
+- 📦 [Browse repositories and live star counts](https://github.com/grlokesh96?tab=repositories)
+- 📅 [View my contribution calendar](https://github.com/grlokesh96)
+
+<sub>Analytics images are served by external projects and may occasionally be rate-limited or unavailable. Language cards reflect detected repository code, not a complete measure of engineering skills. GitHub's contribution calendar is the source of truth for activity shown on your profile.</sub>
+
+---
+
+## 🐍 Optional: Contribution Snake
+
+The snake animation needs a GitHub Actions workflow to generate the SVG and publish it to an `output` branch. Do not add the image until that workflow has run successfully.
+
+After configuring it, you can add:
+
+```html
+<div align="center">
+  <img src="https://raw.githubusercontent.com/grlokesh96/grlokesh96/output/github-contribution-grid-snake.svg"
+       alt="Animated contribution graph snake" />
+</div>
+```
+
+---
+
+## 🌱 Currently Exploring
+
+- AI-assisted Terraform generation, validation, security scans, and pull requests
+- GitOps delivery with Argo CD and Kubernetes policy enforcement
+- Platform Engineering: reusable templates, golden paths, and developer self-service
+- AIOps for log analysis, incident triage, and human-approved remediation
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/grlokesh96">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:grlokesh96@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.grlokesh.online">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+**Let's build secure, scalable, automated cloud platforms.**
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Automate thoughtfully · Secure by default · Observe everything · Improve continuously</sub>
+</div>
