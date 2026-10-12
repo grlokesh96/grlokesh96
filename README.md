@@ -15,8 +15,20 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=grlokesh96&limit=5&theme=default&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
+
+<!-- External widget: may be unavailable or rate-limited. -->
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=grlokesh96&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+    alt="Top repositories by contribution activity"
+    width="100%"
+  />
+</p>
+
+If this card does not load, use GitHub's built-in contribution and repository pages:
+- [My repositories](https://github.com/grlokesh96?tab=repositories)
+- [My contribution activity](https://github.com/grlokesh96)
 
 ---
 [![](https://komarev.com/ghpvc/?username=grlokesh96&icon=0&color=0)](https://visitcount.itsvg.in)
