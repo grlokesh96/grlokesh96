@@ -1,36 +1,64 @@
-# 💫 About Me:
-🚀 About Me<br><br>👋 Hi, I'm G. R. Lokesh, a DevOps & DevSecOps Engineer with **5+ years of experience** in cloud infrastructure and automation.<br><br>- ☁️ Cloud: AWS, Azure, EKS, AKS<br>- 🏗️ IaC: Terraform, infrastructure automation<br>- ☸️ Containers: Docker, Kubernetes, Helm<br>- 🔄 CI/CD & GitOps: GitHub Actions, Jenkins, Argo CD<br>- 🛡️ DevSecOps: SonarQube, Trivy, Checkov, SBOM, Cosign<br>- 📊 Observability: Prometheus, Grafana, Datadog, ELK<br>- 🤖 AI/AIOps: AI-assisted incident analysis and DevOps automation<br>- 🎯 Current Focus: Platform Engineering, developer self-service, and secure cloud-native platforms<br><br>💡 I enjoy automating infrastructure, improving reliability, and embedding security into every stage of software delivery.<br><br>
+# Hi, I'm G. R. Lokesh 👋
 
+### DevOps & DevSecOps Engineer | AWS & Azure | Kubernetes | Terraform | GitOps
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/grlokesh96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grlokesh96@gmail.com) 
+I build secure, scalable, and reliable cloud-native infrastructure through automation, CI/CD, Kubernetes, and infrastructure as code. I enjoy turning repeatable operational tasks into reliable workflows and sharing practical engineering projects.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=grlokesh96&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=grlokesh96&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=grlokesh96&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repositories
-
-<!-- External widget: may be unavailable or rate-limited. -->
-<p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=grlokesh96&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
-    alt="Top repositories by contribution activity"
-    width="100%"
-  />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=grlokesh96&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for grlokesh96" />
+  <img src="https://img.shields.io/github/followers/grlokesh96?label=Followers&style=flat" alt="GitHub followers" />
 </p>
 
-If this card does not load, use GitHub's built-in contribution and repository pages:
-- [My repositories](https://github.com/grlokesh96?tab=repositories)
-- [My contribution activity](https://github.com/grlokesh96)
+---
+
+## 🧰 Tech Stack
+
+- **Cloud:** AWS, Microsoft Azure, Amazon EKS, Azure AKS
+- **Infrastructure as Code:** Terraform, Ansible
+- **CI/CD & GitOps:** GitHub Actions, Jenkins, Argo CD, Helm
+- **Containers & Orchestration:** Docker, Kubernetes
+- **DevSecOps:** Trivy, SonarQube, Semgrep, Checkov, SBOM, Cosign
+- **Monitoring & Observability:** Prometheus, Grafana, CloudWatch
+- **Scripting:** Bash, Python, YAML
+- **Engineering interests:** Cloud automation, Kubernetes security, platform engineering, AI-assisted DevOps
+
+## 🚀 Featured Projects
+
+- **End-to-End DevSecOps Pipeline** — Integrate code quality, secrets detection, vulnerability scanning, SBOM generation, image signing, and CI/CD.
+- **Terraform Infrastructure Automation** — Build reusable infrastructure modules with validation and remote state management.
+- **Kubernetes GitOps Delivery** — Deploy applications using Kubernetes, Helm, and Argo CD.
+- **AWS & Azure Automation** — Automate cloud infrastructure, access controls, and operational tasks.
+- **AI-Assisted DevOps Experiments** — Explore AI-enabled workflows for infrastructure operations and developer productivity.
+
+> Replace these descriptions with links to your actual repositories once the projects are published.
+
+## 📈 GitHub Activity
+
+<!-- GitHub contribution/activity cards update from public GitHub data. -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics for grlokesh96" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=grlokesh96&hide_border=true" alt="GitHub contribution streak for grlokesh96" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&hide_border=true" alt="GitHub activity graph for grlokesh96" />
+</p>
+
+## 🌱 Currently Exploring
+
+- Platform Engineering and Internal Developer Platforms (IDPs)
+- Kubernetes security and policy enforcement
+- GitOps-driven infrastructure management
+- AI-assisted DevOps and cloud automation
+
+## 🤝 Connect
+
+- **LinkedIn:** [G. R. Lokesh](https://www.linkedin.com/in/grlokesh96/)
+- **GitHub:** [@grlokesh96](https://github.com/grlokesh96)
 
 ---
-[![](https://komarev.com/ghpvc/?username=grlokesh96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*I believe in learning by building, automating repetitive work, and making cloud infrastructure more secure and dependable.*
