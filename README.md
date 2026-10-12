@@ -6,9 +6,10 @@
 
 Building secure cloud infrastructure, reliable delivery pipelines, and automation for cloud-native platforms.
 
+<!-- Profile views and follower count -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=grlokesh96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/grlokesh96?label=Followers&style=flat&logo=github" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=grlokesh96&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views for grlokesh96" />
+  <img src="https://img.shields.io/github/followers/grlokesh96?label=GitHub%20Followers&style=flat&logo=github" alt="GitHub followers" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grlokesh96)
@@ -27,7 +28,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 - ⚙️ Build and improve **CI/CD pipelines, Terraform modules, and GitOps workflows**.
 - 🔐 Integrate security checks into delivery pipelines and Kubernetes environments.
 - 📈 Explore **AI-assisted DevOps and AIOps** to improve operational efficiency.
-- 🧠 Currently exploring **LLMs, RAG, and AI agents** for practical engineering workflows.
+- 🧠 Explore **LLMs, RAG, and AI agents** for practical engineering workflows.
 
 ## 🧰 Tech Stack
 
@@ -78,25 +79,27 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ## 🚀 Featured Projects
 
-> Pin your strongest repositories on your GitHub profile and replace the examples below with direct links to those repositories.
-
-- **End-to-End DevSecOps Pipeline** — CI/CD with code quality checks, secrets detection, vulnerability scanning, SBOM generation, container signing, and registry publishing.
+- **End-to-End DevSecOps Pipeline** — Code quality, secrets detection, vulnerability scanning, SBOM generation, image signing, and registry publishing.
 - **Terraform Cloud Infrastructure** — Reusable infrastructure modules, validation, remote state, and automated plan/apply workflows.
-- **Kubernetes GitOps Platform** — Application deployment with Kubernetes, Helm, and Argo CD.
-- **Kubernetes Security & Secrets** — Explore workload identity, least-privilege access, policy enforcement, and Vault-based secrets management.
-- **AI-Assisted DevOps / AIOps** — Experiment with LLMs, RAG, and AI agents for runbook assistance, log analysis, and operational automation.
+- **Kubernetes GitOps Delivery** — Application deployment with Kubernetes, Helm, and Argo CD.
+- **Kubernetes Security & Secrets** — Workload identity, least-privilege access, policy enforcement, and Vault-based secrets management.
+- **AI-Assisted DevOps / AIOps** — Experiments with LLMs, RAG, and AI agents for runbook assistance, log analysis, and operational automation.
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- These cards fetch public GitHub data dynamically. External services may occasionally be rate-limited or unavailable. -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages" />
+<!-- GitHub stats card: dynamically fetches data from the public GitHub profile. -->
+<img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics for grlokesh96" />
 
-<img src="https://streak-stats.demolab.com?user=grlokesh96&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<!-- Top languages card: summarizes language usage in public repositories. -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&hide_border=true&theme=github-compact" alt="GitHub activity graph" />
+<!-- Contribution streak card. -->
+<img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+
+<!-- Activity graph: uses the official activity-graph endpoint and username parameter. -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&theme=github-compact&hide_border=true" alt="GitHub activity graph for grlokesh96" />
 
 </div>
 
