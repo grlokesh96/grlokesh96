@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # Hi, I'm G. R. Lokesh 👋
 
@@ -6,9 +6,13 @@
 
 Building secure cloud infrastructure, reliable delivery pipelines, and automation for cloud-native platforms.
 
+<!-- GitHub follower and repository-star badges update dynamically. -->
 <p>
-  <a href="https://github.com/grlokesh96?tab=followers">
-    <img src="https://img.shields.io/github/followers/grlokesh96?label=FOLLOWERS&logo=github&style=for-the-badge&color=181717" alt="GitHub Followers" />
+<a href="https://github.com/grlokesh96?tab=followers">
+    <img src="https://img.shields.io/github/followers/grlokesh96?label=FOLLOWERS&logo=github&style=for-the-badge&color=181717" alt="Current GitHub followers for grlokesh96" />
+  </a>
+  <a href="https://github.com/grlokesh96?tab=repositories">
+    <img src="https://img.shields.io/github/stars/grlokesh96?label=TOTAL%20STARS&style=for-the-badge&color=f1c40f" alt="Stars on repositories owned by grlokesh96" />
   </a>
 </p>
 
@@ -33,14 +37,12 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 ## 🧰 Tech Stack
 
 ### Cloud & Infrastructure
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Containers, Kubernetes & Platform Engineering
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
@@ -50,14 +52,12 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### CI/CD & Developer Tooling
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### DevSecOps & Secrets Management
-
 ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=000000)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
@@ -66,7 +66,6 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 ![Cosign](https://img.shields.io/badge/Cosign-Image%20Signing-2F855A?style=for-the-badge)
 
 ### Programming, Automation & AI
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -76,7 +75,6 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 ![AIOps](https://img.shields.io/badge/AI--assisted%20DevOps%20%2F%20AIOps-1F6FEB?style=for-the-badge)
 
 ### Monitoring & Data
-
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
@@ -91,17 +89,16 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 - **Kubernetes Security & Secrets** — Workload identity, least-privilege access, policy enforcement, and Vault-based secrets management.
 - **AI-Assisted DevOps / AIOps** — Experiments with LLMs, RAG, and AI agents for runbook assistance, log analysis, and operational automation.
 
-## 📊 Dynamic GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Dynamically generated GitHub profile statistics -->
-<img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" height="165" alt="GitHub Statistics" />
+<!-- Public GitHub stats: dynamically generated; public services can be rate-limited. -->
+<img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics for grlokesh96" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most Used Programming Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
 
-<img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub Contribution Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
 </div>
 
 ## 🌱 Currently Exploring
@@ -125,3 +122,4 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 *Build • Automate • Secure • Observe • Improve*
 
 </div>
+
