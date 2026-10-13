@@ -36,97 +36,54 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ## 🛠️ Technologies & Tools
 
-<p align="left">
-  <!-- Programming -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="36" height="36" /></a>
-
-  <!-- Version Control & CI/CD -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="36" height="36" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36" /></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36" /></a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="36" height="36" /></a>
-  <a href="https://azure.microsoft.com/products/devops" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" title="Azure DevOps" width="36" height="36" /></a>
-
-  <!-- Cloud -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" title="Amazon Web Services" width="36" height="36" /></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
-
-  <!-- Infrastructure as Code -->
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="36" height="36" /></a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" width="36" height="36" /></a>
-
-  <!-- Containers & Kubernetes -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" title="Helm" width="36" height="36" /></a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" title="Argo CD" width="36" height="36" /></a>
-
-  <!-- Operating Systems -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-
-  <!-- Security -->
-  <a href="https://trivy.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/trivy/1904DA" alt="Trivy" title="Trivy" width="36" height="36" /></a>
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" width="36" height="36" /></a>
-  <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" alt="HashiCorp Vault" title="HashiCorp Vault" width="36" height="36" /></a>
-
-  <!-- Monitoring -->
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="36" height="36" /></a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="36" height="36" /></a>
-
-  <!-- Databases -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+### Cloud & Infrastructure as Code
+<p align="center">
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://www.terraform.io/" title="Terraform"><img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://www.ansible.com/" title="Ansible"><img src="https://cdn.simpleicons.org/ansible/EE0000" alt="Ansible" width="42" height="42"/></a>
 </p>
 
-## 🧰 Tech Stack
+### Containers, Kubernetes & GitOps
+<p align="center">
+  <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://helm.sh/" title="Helm"><img src="https://cdn.simpleicons.org/helm/0F1689" alt="Helm" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://argoproj.github.io/cd/" title="Argo CD"><img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="Argo CD" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://istio.io/" title="Istio"><img src="https://cdn.simpleicons.org/istio/466BB0" alt="Istio" width="42" height="42"/></a>
+</p>
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### Containers, Kubernetes & Platform Engineering
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Karpenter](https://img.shields.io/badge/Karpenter-Kubernetes%20Autoscaling-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-Service%20Mesh-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### CI/CD & Developer Tooling
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### CI/CD & Version Control
+<p align="center">
+  <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://about.gitlab.com/" title="GitLab CI"><img src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="GitLab CI" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://www.jenkins.io/" title="Jenkins"><img src="https://cdn.simpleicons.org/jenkins/D24939" alt="Jenkins" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/" title="GitHub"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="42" height="42"/></a>
+</p>
 
 ### DevSecOps & Secrets Management
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=000000)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-222222?style=for-the-badge&logo=semgrep&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-IaC%20Security-5C4EE5?style=for-the-badge)
-![Cosign](https://img.shields.io/badge/Cosign-Image%20Signing-2F855A?style=for-the-badge)
+<p align="center">
+  <a href="https://trivy.dev/" title="Trivy"><img src="https://cdn.simpleicons.org/trivy/1904DA" alt="Trivy" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://www.sonarsource.com/products/sonarqube/" title="SonarQube"><img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" alt="SonarQube" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://snyk.io/" title="Snyk"><img src="https://cdn.simpleicons.org/snyk/FFFFFF" alt="Snyk" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://semgrep.dev/" title="Semgrep"><img src="https://cdn.simpleicons.org/semgrep/FFFFFF" alt="Semgrep" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://www.vaultproject.io/" title="HashiCorp Vault"><img src="https://cdn.simpleicons.org/vault/FFFFFF" alt="HashiCorp Vault" width="42" height="42"/></a>
+</p>
 
-### Programming, Automation & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A7E8C?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Automation-7B61FF?style=for-the-badge)
-![AIOps](https://img.shields.io/badge/AI--assisted%20DevOps%20%2F%20AIOps-1F6FEB?style=for-the-badge)
+### Monitoring & Observability
+<p align="center">
+  <a href="https://prometheus.io/" title="Prometheus"><img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="Prometheus" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://grafana.com/" title="Grafana"><img src="https://cdn.simpleicons.org/grafana/F46800" alt="Grafana" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://www.elastic.co/" title="Elastic (ELK)"><img src="https://cdn.simpleicons.org/elastic/FFFFFF" alt="Elastic (ELK)" width="42" height="42"/></a>
+</p>
 
-### Monitoring & Data
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Programming, Scripting & OS
+<p align="center">
+  <a href="https://www.python.org/" title="Python"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" title="Linux"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="42" height="42"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="42" height="42"/></a>
+</p>
 
 ## 🚀 Featured Projects
 
