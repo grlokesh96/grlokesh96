@@ -2,7 +2,7 @@
 
 # Hi, I'm G. R. Lokesh 👋
 
-### DevOps & DevSecOps Engineer | AWS & Azure | Kubernetes | Terraform | GitOps
+### DevOps & DevSecOps Engineer | AWS & Azure | Kubernetes | Terraform | GitOps | Cloud Security
 
 Building secure cloud infrastructure, reliable delivery pipelines, and automation for cloud-native platforms.
 
