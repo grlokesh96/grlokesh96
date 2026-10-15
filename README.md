@@ -6,6 +6,8 @@
 
 Building secure cloud infrastructure, reliable delivery pipelines, and automation for cloud-native platforms.
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,ansible,bash,linux,ubuntu,py,terraform,docker,kubernetes,helm,openshift,aws,azure,gcp,nginx,istio,prometheus,grafana,elasticsearch,vault,sonarqube)](https://skillicons.dev)
+
 <!-- GitHub follower and repository-star badges update dynamically. -->
 <p>
 <a href="https://github.com/grlokesh96?tab=followers">
