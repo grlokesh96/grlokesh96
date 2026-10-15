@@ -6,12 +6,6 @@
 
 Building secure cloud infrastructure, reliable delivery pipelines, and automation for cloud-native platforms.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,ansible,bash,linux,ubuntu,py,terraform,docker,kubernetes,helm,openshift,aws,azure,gcp,nginx,istio,prometheus,grafana,elasticsearch,vault,sonarqube&perline=8" alt="DevOps and Cloud Engineering Skills" />
-  </a>
-</p>
-
 <!-- GitHub follower and repository-star badges update dynamically. -->
 <p>
 <a href="https://github.com/grlokesh96?tab=followers">
