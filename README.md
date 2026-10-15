@@ -4,12 +4,6 @@
 
 ### DevOps & DevSecOps Engineer | AWS & Azure | Kubernetes | Terraform | GitOps
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,ubuntu,bash,python,jenkins,argocd,terraform,docker,kubernetes,aws,azure,prometheus,grafana,istio,vault&perline=9" />
-  </a>
-</p>
-
 Building secure cloud infrastructure, reliable delivery pipelines, and automation for cloud-native platforms.
 
 <!-- GitHub follower and repository-star badges update dynamically. -->
