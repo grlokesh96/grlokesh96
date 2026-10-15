@@ -1,23 +1,13 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm G. R. Lokesh 👋
 
 ### DevOps & DevSecOps Engineer | AWS & Azure | Kubernetes | Terraform | GitOps
 
-Building secure cloud infrastructure, reliable delivery pipelines, and automation for cloud-native platforms.
-
-<!-- GitHub follower and repository-star badges update dynamically. -->
-<p>
-<a href="https://github.com/grlokesh96?tab=followers">
-    <img src="https://img.shields.io/github/followers/grlokesh96?label=FOLLOWERS&logo=github&style=for-the-badge&color=181717" alt="Current GitHub followers for grlokesh96" />
-  </a>
-  <a href="https://github.com/grlokesh96?tab=repositories">
-    <img src="https://img.shields.io/github/stars/grlokesh96?label=TOTAL%20STARS&style=for-the-badge&color=f1c40f" alt="Stars on repositories owned by grlokesh96" />
-  </a>
-</p>
+Building secure cloud infrastructure, reliable CI/CD pipelines, and automation for cloud-native platforms.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grlokesh96)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grlokesh96)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grlokesh96)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grlokesh96@gmail.com)
 
 </div>
@@ -34,52 +24,77 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 - 📈 Explore **AI-assisted DevOps and AIOps** to improve operational efficiency.
 - 🧠 Explore **LLMs, RAG, and AI agents** for practical engineering workflows.
 
-## 🧰 Tech Stack
+## 🛠️ Technical Skills & Tools
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### ☁️ Cloud & Infrastructure as Code
 
-### Containers, Kubernetes & Platform Engineering
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Karpenter](https://img.shields.io/badge/Karpenter-Kubernetes%20Autoscaling-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-Service%20Mesh-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+</p>
 
-### CI/CD & Developer Tooling
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🐳 Containers & Platform Engineering
 
-### DevSecOps & Secrets Management
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=000000)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-222222?style=for-the-badge&logo=semgrep&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-IaC%20Security-5C4EE5?style=for-the-badge)
-![Cosign](https://img.shields.io/badge/Cosign-Image%20Signing-2F855A?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Karpenter-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Karpenter" />
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="Istio" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+</p>
 
-### Programming, Automation & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A7E8C?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Automation-7B61FF?style=for-the-badge)
-![AIOps](https://img.shields.io/badge/AI--assisted%20DevOps%20%2F%20AIOps-1F6FEB?style=for-the-badge)
+### ⚙️ Version Control, CI/CD & GitOps
 
-### Monitoring & Data
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
+</p>
+
+### 🔐 DevSecOps & Secrets Management
+
+<p>
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Semgrep-222222?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep" />
+  <img src="https://img.shields.io/badge/Checkov-IaC_Security-5C4EE5?style=for-the-badge" alt="Checkov" />
+  <img src="https://img.shields.io/badge/Cosign-Image_Signing-2F855A?style=for-the-badge" alt="Cosign" />
+</p>
+
+### 🖥️ Operating Systems & Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
+
+### 📊 Monitoring, Observability & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+### 🤖 AI, LLMs & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-0A7E8C?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-Automation-7B61FF?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/AIOps-AI_Assisted_DevOps-1F6FEB?style=for-the-badge" alt="AIOps" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -89,16 +104,16 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 - **Kubernetes Security & Secrets** — Workload identity, least-privilege access, policy enforcement, and Vault-based secrets management.
 - **AI-Assisted DevOps / AIOps** — Experiments with LLMs, RAG, and AI agents for runbook assistance, log analysis, and operational automation.
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- Public GitHub stats: dynamically generated; public services can be rate-limited. -->
-<img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics for grlokesh96" />
+<img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
 
 <img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+
 </div>
 
 ## 🌱 Currently Exploring
@@ -115,83 +130,8 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 - 📧 Email: [grlokesh96@gmail.com](mailto:grlokesh96@gmail.com)
 - 🐙 GitHub: [github.com/grlokesh96](https://github.com/grlokesh96)
 
----
-
-## 🛠️ Technical Skills & Tools
-
-### 🔹 Version Control & CI/CD
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square&logo=git&logoColor=white" />
-</p>
-
-### 🔹 Operating Systems & Scripting
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-### 🔹 Cloud & Infrastructure as Code
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-</p>
-
-### 🔹 Containers & Platform Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
-</p>
-
-### 🔹 DevSecOps & Security
-
-<p>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" />
-  <img src="https://img.shields.io/badge/Checkov-5C4EE5?style=flat-square&logo=paloaltonetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cosign-7B42BC?style=flat-square&logo=sigstore&logoColor=white" />
-</p>
-
-### 🔹 Monitoring & Observability
-
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
-</p>
-
-### 🔹 AI, LLMs & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=flat-square&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Boto3-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-</p>
-
 <div align="center">
 
 *Build • Automate • Secure • Observe • Improve*
 
 </div>
-
