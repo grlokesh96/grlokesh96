@@ -6,6 +6,7 @@
 
 Building secure cloud infrastructure, reliable CI/CD pipelines, and automation for cloud-native platforms.
 
+
 <p align="center">
   <a href="https://linkedin.com/in/grlokesh96">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
@@ -15,12 +16,15 @@ Building secure cloud infrastructure, reliable CI/CD pipelines, and automation f
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   &nbsp;
+  <a href="https://www.grlokesh.online">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=googlechrome&logoColor=white&labelColor=6C63FF" alt="Portfolio Website" />
+  </a>
+  &nbsp;
   <a href="mailto:grlokesh96@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
   </a>
 </p>
 
-</div>
 
 ---
 
