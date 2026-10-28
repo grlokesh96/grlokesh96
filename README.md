@@ -105,10 +105,11 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 ### 🔹 AI, LLMs & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=flat-square&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Boto3-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=flat-square&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Boto3-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 ## 🚀 Featured Projects
