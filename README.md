@@ -71,7 +71,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
 </p>
 
-### 🔹 Containers & Platform Engineering
+### 🔹 Containers & Orchestration
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
