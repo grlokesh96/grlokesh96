@@ -16,9 +16,11 @@ Building secure cloud infrastructure, reliable CI/CD pipelines, and automation f
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   &nbsp;
+
   <a href="https://www.grlokesh.online">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=googlechrome&logoColor=white&labelColor=6C63FF" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white&labelColor=2563EB" alt="Personal Website" />
   </a>
+
   &nbsp;
   <a href="mailto:grlokesh96@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
