@@ -133,15 +133,25 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ## 📊 GitHub Statistics
 
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
 
-<img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" height="165" alt="GitHub contribution streak" />
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=grlokesh96&style=flat-square&color=blue&label=Profile+Views" alt="Profile views" />
 
 </div>
+
 
 ## 🌱 Currently Exploring
 
