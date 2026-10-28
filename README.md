@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 # Hi, I'm G. R. Lokesh 👋
 
@@ -6,27 +7,12 @@
 
 Building secure cloud infrastructure, reliable CI/CD pipelines, and automation for cloud-native platforms.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.grlokesh.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grlokesh96)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grlokesh96)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grlokesh96@gmail.com)
 
-
-<p align="center">
-  <a href="https://linkedin.com/in/grlokesh96">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/grlokesh96">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.grlokesh.online">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat&logo=googlechrome&logoColor=white&labelColor=6C63FF" alt="Portfolio Website" />
-  </a>
-  &nbsp;
-  <a href="mailto:grlokesh96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
-  </a>
-</p>
-
-
+</div>
 
 ---
 
@@ -114,11 +100,11 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ## 🚀 Featured Projects
 
-- **End-to-End DevSecOps Pipeline** — Code quality, secrets detection, vulnerability scanning, SBOM generation, image signing, and registry publishing.
-- **Terraform Cloud Infrastructure** — Reusable infrastructure modules, validation, remote state, and automated plan/apply workflows.
-- **Kubernetes GitOps Delivery** — Application deployment with Kubernetes, Helm, and Argo CD.
-- **Kubernetes Security & Secrets** — Workload identity, least-privilege access, policy enforcement, and Vault-based secrets management.
-- **AI-Assisted DevOps / AIOps** — Experiments with LLMs, RAG, and AI agents for runbook assistance, log analysis, and operational automation.
+- **Cloud-Native Trading & Portfolio Platform** — AWS EKS, Terraform, GitOps, DevSecOps, and observability for 20+ microservices.
+- **IoT Smart Devices — Real-Time Monitoring** — CI/CD automation, container optimization, Kubernetes, and infrastructure provisioning.
+- **End-to-End DevSecOps Pipeline** — Security scanning, SBOM generation, image signing, and automated delivery.
+- **Terraform Cloud Infrastructure** — Reusable infrastructure modules, remote state, and automated provisioning.
+- **AI-Assisted DevOps / AIOps** — LLMs, RAG, and AI agents for incident analysis and operational automation.
 
 ## 📊 GitHub Statistics
 
@@ -142,9 +128,10 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/grlokesh96](https://linkedin.com/in/grlokesh96)
-- 📧 Email: [grlokesh96@gmail.com](mailto:grlokesh96@gmail.com)
-- 🐙 GitHub: [github.com/grlokesh96](https://github.com/grlokesh96)
+- 🌐 **Portfolio:** [www.grlokesh.online](https://www.grlokesh.online)
+- 💼 **LinkedIn:** [linkedin.com/in/grlokesh96](https://linkedin.com/in/grlokesh96)
+- 📧 **Email:** [grlokesh96@gmail.com](mailto:grlokesh96@gmail.com)
+- 🐙 **GitHub:** [github.com/grlokesh96](https://github.com/grlokesh96)
 
 <div align="center">
 
