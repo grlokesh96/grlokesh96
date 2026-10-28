@@ -84,12 +84,17 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 ### 🔹 DevSecOps & Security
 
 <p>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" />
-  <img src="https://img.shields.io/badge/Checkov-5C4EE5?style=flat-square&logo=paloaltonetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cosign-7B42BC?style=flat-square&logo=sigstore&logoColor=white" />
+<img src="https://img.shields.io/badge/Checkmarx_One-6C2C91?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
+<img src="https://img.shields.io/badge/Checkov-5C4EE5?style=flat-square&logo=paloaltonetworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Gitleaks-800000?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Syft-3C6EB4?style=flat-square&logo=anchore&logoColor=white" />
+<img src="https://img.shields.io/badge/Cosign-7B42BC?style=flat-square&logo=sigstore&logoColor=white" />
+<img src="https://img.shields.io/badge/Kyverno-00A3E0?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white" />
 </p>
 
 ### 🔹 Monitoring & Observability
