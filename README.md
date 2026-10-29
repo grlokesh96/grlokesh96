@@ -135,40 +135,11 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark&custom_title=G.%20R.%20Lokesh%27s%20GitHub%20Stats"
-    alt="G. R. Lokesh GitHub Statistics"
-    height="180"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics" />
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-    alt="Most Used Programming Languages"
-    height="180"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
 
-  <br/><br/>
-
-  <!-- Contribution Streak -->
-  <img
-    src="https://streak-stats.demolab.com/?user=grlokesh96&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
-    height="180"
-  />
-
-</div>
-
-<!-- Contribution Activity Graph -->
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
+<img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
 
 </div>
 
