@@ -134,13 +134,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ## 📊 GitHub Statistics
 
-![](https://github.com/grlokesh96/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/grlokesh96/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-
-![](https://github.com/grlokesh96/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/grlokesh96/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/grlokesh96?cardType=octocat&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ## 🌱 Currently Exploring
