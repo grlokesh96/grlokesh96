@@ -143,7 +143,6 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
   />
 
 </div>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=grlokesh96&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌱 Currently Exploring
 
