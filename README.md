@@ -133,17 +133,34 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lokeshzenbook-coder&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark&count_private=true" height="165" alt="GitHub statistics" />
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lokeshzenbook-coder&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark&custom_title=Lokesh's%20GitHub%20Stats"
+    height="180"
+    alt="Lokesh's GitHub Statistics"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshzenbook-coder&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshzenbook-coder&layout=compact&langs_count=8&hide_border=true&theme=github_dark&custom_title=Most%20Used%20Languages"
+    height="180"
+    alt="Most Used Programming Languages"
+  />
 
-<br />
+  <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=lokeshzenbook-coder&hide_border=true&theme=github-dark-blue" height="165" alt="GitHub contribution streak" />
+  <!-- Contribution Streak -->
+  <img
+    src="https://streak-stats.demolab.com/?user=lokeshzenbook-coder&theme=github-dark-blue&hide_border=true"
+    height="180"
+    alt="Lokesh's GitHub Contribution Streak"
+  />
 
 </div>
+
 
 ## 🌱 Currently Exploring
 
