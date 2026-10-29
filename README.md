@@ -131,10 +131,6 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 - **Kubernetes Security & Secrets** — Workload identity, least-privilege access, policy enforcement, and Vault-based secrets management.
 - **AI-Assisted DevOps / AIOps** — Experiments with LLMs, RAG, and AI agents for runbook assistance, log analysis, and operational automation.
 
-
-## 📊 GitHub Statistics
-
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -173,7 +169,6 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 </div>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/grlokesh96?cardType=octocat&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🌱 Currently Exploring
 
