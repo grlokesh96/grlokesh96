@@ -132,18 +132,14 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 - **AI-Assisted DevOps / AIOps** — Experiments with LLMs, RAG, and AI agents for runbook assistance, log analysis, and operational automation.
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grlokesh96&show_icons=true&locale=en&layout=compact" alt="grlokesh96" /></p>
 
-<img height="165" alt="GitHub statistics" src="https://github-readme-stats.shion.dev/api?username=lokeshzenbook-coder&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="165" alt="Most-used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lokeshzenbook-coder&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&locale=en" alt="grlokesh96" /></p>
 
-<br />
-
-<img alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=lokeshzenbook-coder&theme=blue-green&hide_border=false" />
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grlokesh96&" alt="grlokesh96" /></p>
 
 
 
