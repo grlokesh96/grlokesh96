@@ -116,11 +116,17 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 ### 🔹 AI, LLMs & Automation
 
 <p>
-<img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=flat-square&logo=robotframework&logoColor=white" />
-<img src="https://img.shields.io/badge/Boto3-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=flat-square&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-6E40C9?style=flat-square&logo=protocols.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiro_CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Boto3-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 ## 🚀 Featured Projects
