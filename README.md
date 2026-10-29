@@ -137,12 +137,14 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
   <!-- Dynamic GitHub Profile Card -->
   <img
-    src="https://kgnio-profile-card.vercel.app/api/card?user=grlokesh96&theme=azure-noir"
+    src="https://kgnio-profile-card.vercel.app/api/card?user=grlokesh96&theme=Ice"
     alt="G. R. Lokesh GitHub Profile Statistics"
     width="100%"
   />
 
 </div>
+
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=octocat&theme=midnight)
 
 ## 🌱 Currently Exploring
 
