@@ -139,11 +139,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
 
-<img
-  src="https://streak-stats.demolab.com/?user=grlokesh96&theme=github-dark-blue&hide_border=true"
-  height="165"
-  alt="GitHub Contribution Streak for G. R. Lokesh"
-/>
+<img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
 
 </div>
 
