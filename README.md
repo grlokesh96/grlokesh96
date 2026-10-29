@@ -143,9 +143,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
   />
 
 </div>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&langs_count=8&theme=github_dark&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9&hide_border=true)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/grlokesh96?cardType=octocat&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🌱 Currently Exploring
 
