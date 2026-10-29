@@ -131,10 +131,36 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 - **Kubernetes Security & Secrets** — Workload identity, least-privilege access, policy enforcement, and Vault-based secrets management.
 - **AI-Assisted DevOps / AIOps** — Experiments with LLMs, RAG, and AI agents for runbook assistance, log analysis, and operational automation.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=grlokesh96&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=grlokesh96&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=grlokesh96&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+  <a href="https://github.com/grlokesh96">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00E5A8&icon_color=00E5A8&text_color=C9D1D9"
+      height="180"
+      alt="GitHub Statistics"
+    />
+  </a>
+  <a href="https://github.com/grlokesh96">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9"
+      height="180"
+      alt="Top Languages"
+    />
+  </a>
+
+  <br/><br/>
+
+  <img
+    src="https://streak-stats.demolab.com/?user=grlokesh96&theme=dark&hide_border=true&background=0D1117&ring=00E5A8&fire=00E5A8&currStreakLabel=00E5A8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
+
 
 
 ## 🌱 Currently Exploring
