@@ -133,24 +133,25 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ## 📊 GitHub Statistics
 
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
   <!-- Dynamic GitHub Profile Card -->
   <img
     src="https://kgnio-profile-card.vercel.app/api/card?user=grlokesh96&theme=cyber-city"
-    alt="G. R. Lokesh GitHub Profile Statistics"
+    alt="G. R. Lokesh's GitHub Profile Statistics"
     width="100%"
   />
 
-</div>
-
-<div align="center">
+  <br/><br/>
 
   <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-    height="165"
     alt="G. R. Lokesh's Most Used Programming Languages"
+    height="165"
   />
 
   <br/><br/>
@@ -159,12 +160,13 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&theme=github-compact&hide_border=true"
+      alt="G. R. Lokesh's GitHub Contribution Activity"
       width="100%"
-      alt="G. R. Lokesh's GitHub Activity Graph"
     />
   </a>
 
 </div>
+
 
 ## 🌱 Currently Exploring
 
