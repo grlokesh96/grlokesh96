@@ -135,11 +135,13 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=lokeshzenbook-coder&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark&count_private=true" height="165" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshzenbook-coder&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Most-used programming languages" />
 
-<img src="https://streak-stats.demolab.com/?user=grlokesh96&hide_border=true&theme=github-dark-blue" alt="GitHub contribution streak" />
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=lokeshzenbook-coder&hide_border=true&theme=github-dark-blue" height="165" alt="GitHub contribution streak" />
 
 </div>
 
