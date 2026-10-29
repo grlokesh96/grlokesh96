@@ -133,6 +133,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
 
   <!-- Dynamic GitHub Profile Card -->
@@ -142,7 +143,17 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
     width="100%"
   />
 
+  <br/><br/>
+
+  <!-- GitHub Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&theme=github-compact&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
+    alt="G. R. Lokesh's GitHub Activity Graph"
+    width="100%"
+  />
+
 </div>
+
 
 
 ## 🌱 Currently Exploring
