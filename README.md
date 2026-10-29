@@ -137,38 +137,12 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
   <!-- Dynamic GitHub Profile Card -->
   <img
-    src="https://kgnio-profile-card.vercel.app/api/card?user=grlokesh96&theme=pine-tree"
+    src="https://kgnio-profile-card.vercel.app/api/card?user=grlokesh96&theme=sunset"
     alt="G. R. Lokesh GitHub Profile Statistics"
     width="100%"
   />
 
-  <br/><br/>
-
-  <!-- GitHub Stats with Commit Counts -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00E5A8&icon_color=00E5A8&text_color=C9D1D9"
-    height="180"
-    alt="GitHub Commit Statistics"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9"
-    height="180"
-    alt="Top Programming Languages"
-  />
-
-  <br/><br/>
-
-  <!-- Contribution Streak -->
-  <img
-    src="https://streak-stats.demolab.com/?user=grlokesh96&theme=dark&hide_border=true&background=0D1117&ring=00E5A8&fire=00E5A8&currStreakLabel=00E5A8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    height="180"
-    alt="GitHub Contribution Streak"
-  />
-
 </div>
-
 
 ## 🌱 Currently Exploring
 
