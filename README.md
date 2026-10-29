@@ -143,7 +143,6 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
   />
 
 </div>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/grlokesh96?cardType=octocat&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=grlokesh96&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌱 Currently Exploring
