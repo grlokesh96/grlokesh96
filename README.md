@@ -132,15 +132,15 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 - **AI-Assisted DevOps / AIOps** — Experiments with LLMs, RAG, and AI agents for runbook assistance, log analysis, and operational automation.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+## 📊 GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grlokesh96&show_icons=true&locale=en&layout=compact" alt="grlokesh96" /></p>
+![](https://github.com/grlokesh96/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/grlokesh96/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&locale=en" alt="grlokesh96" /></p>
+![](https://github.com/grlokesh96/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/grlokesh96/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grlokesh96&" alt="grlokesh96" /></p>
-
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 
 ## 🌱 Currently Exploring
