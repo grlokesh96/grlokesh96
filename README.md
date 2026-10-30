@@ -150,48 +150,6 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 </div>
 
-<div align="center">
-  <h2>📊 GitHub Analytics & Activity</h2>
-
-  <!-- Side-by-side Stats & Top Languages (Auto adapts to Dark/Light mode) -->
-  <a href="https://github.com/grlokesh96">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=grlokesh96&show_icons=true&rank_icon=github&hide_border=true&theme=transparent&count_private=true"
-      height="165"
-      alt="Lokesh's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/grlokesh96">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grlokesh96&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-      height="165"
-      alt="Top Languages"
-    />
-  </a>
-
-  <br/><br/>
-
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=grlokesh96&theme=github-dark-blue&hide_border=true"
-      height="165"
-      alt="GitHub Streak"
-    />
-  </a>
-
-  <br/><br/>
-
-  <!-- Contribution Activity Graph -->
-  <a href="https://github.com/grlokesh96">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=grlokesh96&theme=github-compact&hide_border=true&area=true"
-      width="95%"
-      alt="Contribution Activity Graph"
-    />
-  </a>
-</div>
-
 ## 🌱 Currently Exploring
 
 - Platform Engineering and Internal Developer Platforms (IDPs)
