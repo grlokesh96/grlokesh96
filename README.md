@@ -48,10 +48,10 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
   <img src="https://img.shields.io/badge/GitHub-181717?style=Plastic&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=Plastic&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=Plastic&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=Plastic&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=Plastic&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=Plastic&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-326CE5?style=Plastic&logo=git&logoColor=white" />
 </p>
 
 ### 🔹 Operating Systems & Scripting
