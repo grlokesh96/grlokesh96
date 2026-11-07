@@ -69,7 +69,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=Plastic&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=Plastic&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=Plastic&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
 </p>
 
