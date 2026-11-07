@@ -9,19 +9,19 @@ Building secure cloud infrastructure, reliable CI/CD pipelines, and automation f
 
 <p align="center">
   <a href="https://www.grlokesh.online">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=flat&logo=googlechrome&logoColor=white&labelColor=2563EB" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=Plastic&logo=googlechrome&logoColor=white&labelColor=2563EB" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/grlokesh96">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=Plastic&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/grlokesh96">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=Plastic&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:grlokesh96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=Plastic&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
   </a>
 </p>
 
