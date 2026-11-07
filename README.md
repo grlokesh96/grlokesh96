@@ -78,7 +78,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=Plastic&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=Plastic&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=Plastic&logo=amazoneks&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
 <img src="https://img.shields.io/badge/Karpenter-7AA116?style=flat-square&logo=kubernetes&logoColor=white" />
