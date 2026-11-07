@@ -92,7 +92,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 <p>
 <img src="https://img.shields.io/badge/Checkmarx_One-6C2C91?style=Plastic&logo=checkmarx&logoColor=white" />
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=Plastic&logo=sonarqube&logoColor=white" />
-<img src="https://img.shields.io/badge/Semgrep-00A86B?style=flat-square&logo=semgrep&logoColor=white" />
+<img src="https://img.shields.io/badge/Semgrep-00A86B?style=Plastic&logo=semgrep&logoColor=white" />
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" />
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
