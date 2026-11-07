@@ -98,7 +98,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=Plastic&logo=aqua&logoColor=white" />
 <img src="https://img.shields.io/badge/Checkov-5C4EE5?style=Plastic&logo=paloaltonetworks&logoColor=white" />
 <img src="https://img.shields.io/badge/Gitleaks-800000?style=Plastic&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Syft-3C6EB4?style=flat-square&logo=anchore&logoColor=white" />
+<img src="https://img.shields.io/badge/Syft-3C6EB4?style=Plastic&logo=anchore&logoColor=white" />
 <img src="https://img.shields.io/badge/Cosign-7B42BC?style=flat-square&logo=sigstore&logoColor=white" />
 <img src="https://img.shields.io/badge/Kyverno-00A3E0?style=Plastic&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=Plastic&logo=vault&logoColor=white" />
