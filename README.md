@@ -128,7 +128,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
   <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Kiro_CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=Plastic&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Boto3-232F3E?style=Plastic&logo=amazonaws&logoColor=white" />
 </p>
 
