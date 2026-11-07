@@ -113,7 +113,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 <img src="https://img.shields.io/badge/Dash0-6B4EFF?style=Plastic&logo=dash0&logoColor=white" />
 <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=Plastic&logo=elasticstack&logoColor=white" />
 <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=Plastic&logo=amazoncloudwatch&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=Plastic&logo=microsoftazure&logoColor=white" />
 </p>
 
 ### 🔹 AI, LLMs & Automation
