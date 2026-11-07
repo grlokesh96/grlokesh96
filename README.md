@@ -122,7 +122,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
   <img src="https://img.shields.io/badge/Generative_AI-412991?style=Plastic&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-412991?style=Plastic&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-6C47FF?style=Plastic&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=Plastic&logo=robotframework&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-6E40C9?style=Plastic&logo=protocols.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=Plastic&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=Plastic&logo=amazonaws&logoColor=white" />
