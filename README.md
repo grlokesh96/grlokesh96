@@ -43,27 +43,27 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ### 🔹 Version Control & CI/CD
 
-<p>
-<!-- Git -->
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="Git" />
+<p align="left">
+  <!-- Git -->
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="Git" />
 
-<!-- GitHub -->
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub" />
+  <!-- GitHub -->
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub" />
 
-<!-- GitHub Actions -->
-<img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="40" alt="GitHub Actions" />
+  <!-- GitHub Actions -->
+  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="40" alt="GitHub Actions" />
 
-<!-- GitLab -->
-<img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.svg" height="55" alt="GitLab" />
+  <!-- GitLab - Increased size -->
+  <img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.svg" height="55" alt="GitLab" />
 
-<!-- Azure DevOps -->
-<img src="https://cdn.vsassets.io/content/icons/favicon.ico" height="40" alt="Azure DevOps" />
+  <!-- Azure DevOps -->
+  <img src="https://cdn.vsassets.io/content/icons/favicon.ico" height="40" alt="Azure DevOps" />
 
-<!-- Jenkins -->
-<img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="40" alt="Jenkins" />
+  <!-- Jenkins -->
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="40" alt="Jenkins" />
 
-<!-- Argo CD -->
-<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="40" alt="Argo CD" />
+  <!-- Argo CD -->
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="40" alt="Argo CD" />
 </p>
 
 ### 🔹 Operating Systems & Scripting
