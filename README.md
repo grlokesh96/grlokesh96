@@ -66,6 +66,16 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="40" alt="Argo CD" />
 </p>
 
+<p align="left">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="Git" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub" />
+  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="40" alt="GitHub Actions" />
+  <img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.svg" height="40" alt="GitLab" />
+  <img src="https://cdn.vsassets.io/content/icons/favicon.ico" height="40" alt="Azure DevOps" />
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="40" alt="Jenkins" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="40" alt="Argo CD" />
+</p>
+
 ### 🔹 Operating Systems & Scripting
 
 <p>
