@@ -54,7 +54,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="40" alt="GitHub Actions" />
 
 <!-- GitLab -->
-<img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-1-color-black-rgb.svg" height="40" alt="GitLab" />
+<img src="https://about.gitlab.com/images/press/gitlab-logo-100-rgb.svg" height="40" alt="GitLab" />
 
 <!-- Azure DevOps -->
 <img src="https://cdn.vsassets.io/content/icons/favicon.ico" height="40" alt="Azure DevOps" />
