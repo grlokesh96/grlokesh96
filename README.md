@@ -45,6 +45,7 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=Plastic&logo=git&logoColor=white" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=Plastic&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=Plastic&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=Plastic&logo=gitlab&logoColor=white" />
