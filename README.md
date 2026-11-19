@@ -44,15 +44,14 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 ### 🔹 Version Control & CI/CD
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=Plastic&logo=git&logoColor=white" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=Plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=Plastic&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=Plastic&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=Plastic&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=Plastic&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=Plastic&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitOps-326CE5?style=Plastic&logo=git&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="45" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="45" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="45" />
+  <img src="https://cdn.simpleicons.org/azuredevops/0078D7" height="45" />
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="45" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="45" />
 </p>
 
 ### 🔹 Operating Systems & Scripting
