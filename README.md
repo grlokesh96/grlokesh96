@@ -43,14 +43,15 @@ I'm a DevOps and DevSecOps Engineer focused on building secure, scalable, and re
 
 ### 🔹 Version Control & CI/CD
 
-<p align="left">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" height="40" alt="Git" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub" />
-  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="40" alt="GitHub Actions" />
-  <img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.svg" height="40" alt="GitLab" />
-  <img src="https://cdn.vsassets.io/content/icons/favicon.ico" height="40" alt="Azure DevOps" />
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="40" alt="Jenkins" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="40" alt="Argo CD" />
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=Plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=Plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=Plastic&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=Plastic&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=Plastic&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=Plastic&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=Plastic&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitOps-326CE5?style=Plastic&logo=git&logoColor=white" />
 </p>
 
 ### 🔹 Operating Systems & Scripting
